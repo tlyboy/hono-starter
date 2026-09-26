@@ -7,7 +7,6 @@
 | 框架   | Hono                                 |
 | 运行时 | Node.js（可迁移到 Vercel / Workers） |
 | 语言   | TypeScript（ESM）                    |
-| 检查   | oxlint                               |
 
 ## 安装
 
@@ -63,14 +62,6 @@ pnpm add -D wrangler
 ```bash
 pnpm wrangler dev
 pnpm wrangler deploy
-```
-
-### 检查
-
-```bash
-pnpm typecheck
-pnpm lint
-pnpm check
 ```
 
 ## 使用许可

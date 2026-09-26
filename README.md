@@ -7,7 +7,6 @@
 | Framework | Hono                                   |
 | Runtime   | Node.js (portable to Vercel / Workers) |
 | Language  | TypeScript (ESM)                       |
-| Lint      | oxlint                                 |
 
 ## Install
 
@@ -63,14 +62,6 @@ Create `wrangler.jsonc`:
 ```bash
 pnpm wrangler dev
 pnpm wrangler deploy
-```
-
-### Check
-
-```bash
-pnpm typecheck
-pnpm lint
-pnpm check
 ```
 
 ## License
