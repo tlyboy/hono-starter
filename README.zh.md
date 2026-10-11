@@ -11,7 +11,7 @@
 ## 安装
 
 ```bash
-npx degit tlyboy/hono-starter my-project
+npx giget gh:tlyboy/hono-starter my-project
 cd my-project
 pnpm install
 ```
