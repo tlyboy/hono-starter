@@ -21,8 +21,8 @@
     "tsx": "^4.23.15",
     "typescript": "^7.0.2"
   },
-  "packageManager": "pnpm@12.6.0",
   "engines": {
     "node": "24.x"
-  }
+  },
+  "packageManager": "pnpm@12.6.0"
 }
